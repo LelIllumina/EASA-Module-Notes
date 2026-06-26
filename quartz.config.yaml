@@ -1,23 +1,24 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: "ATH Batch 32"
+  pageTitleSuffix: "ATH Notes"
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: goatcounter
+    websiteId: lelillumina
   locale: en-US
   baseUrl: part66.nekoweb.org
   ignorePatterns:
     - private
-    - templates
+    - 00 Templates
     - .obsidian
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Rethink Sans
+      body: Atkinson Hyperlegible Next
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -110,6 +111,13 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+        useThemeFonts: false
+        fontOrigin: googleFonts
+        title: Boldonse
+        header: Rethink Sans
+        body: Atkinson Hyperlegible Next
+    order: 93
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -264,7 +272,8 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: ayu-dark
+      order: 80
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
@@ -277,7 +286,7 @@ layout:
     toolbar:
       priority: 35
       direction: row
-      gap: 0.5rem
+      gap: 2rem
   byPageType:
     "404":
       positions:

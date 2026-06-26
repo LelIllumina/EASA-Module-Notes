@@ -1,7 +1,7 @@
 ---
 Date: 2026-06-24
 time: 09:06
-module: M2 Physics
+module: M8 Aerodynamics
 ---
 
 ## Topics

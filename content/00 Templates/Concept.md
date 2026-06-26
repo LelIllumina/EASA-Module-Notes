@@ -1,9 +1,3 @@
-## Definition
+## Overview
 
-## Explanation
-
-## Formulae
-
-## Related Concepts
-
-- [[ ]]
+## Key Concepts

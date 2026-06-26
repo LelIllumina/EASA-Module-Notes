@@ -1,13 +1,17 @@
-License Name: EASA Part-66 AML (Aircraft Maintenance License)
+---
+title: Part-66 License Details
+description: Details and requirements about the Part-66 License
+---
 
-Categories: B1 (1.1, 1.2, 1.3, 1.4) & B2 (Only these 2 available at ATH)
+Part-66 refers to the regulations set out by EASA relating to its Aircraft Maintenance License
 
-Requirements:
+License Name: EASA Part-66 AML (Aircraft Maintenance License)  
+Categories: B1 (1.1, 1.2, 1.3, 1.4) & B2 (Only these 2 available at ATH)  
 
-| License          | [[EASA Info#What Is a Type Rating\|Type Rating]] |
-| ---------------- | ------------------------------------------------ |
-| Basic Knowledge  | Type Training (Theoretical and Practical)        |
-| Basic Experience | On-the-job Training (OJT) for the first TR       |
+| License Requirements | [[EASA#What Is a Type Rating\|Type Rating]] Requirements |
+| -------------------- | -------------------------------------------------------- |
+| Basic Knowledge      | Type Training (Theoretical and Practical)                |
+| Basic Experience     | On-the-job Training (OJT) for the first TR               |
 
 ---
 
@@ -30,9 +34,9 @@ It is the practical knowledge needed for the AML, gained through maintenance act
 
 For B1.1 and B2:
 
-- 5 years of practical maintenance experience on operating aircraft, if the applicant has no previous relevant technical training; or
-- 3 years of practical maintenance experience on operating aircraft and completion of training considered relevant by the competent authority as a skilled worker, in a technical trade; or
-- 2 year of practical maintenance experience on operating aircraft and completion of a basic training course approved in accordance with Annex IV (Part-147[^2]) (Schools);
+> - 5 years of practical maintenance experience on operating aircraft, if the applicant has no previous relevant technical training; or
+> - 3 years of practical maintenance experience on operating aircraft and completion of training considered relevant by the competent authority as a skilled worker, in a technical trade; or
+> - 2 year of practical maintenance experience on operating aircraft and completion of a basic training course approved in accordance with Annex IV (Part-147[^2]) (Schools);
 
 The experience shall be practical and involve a representative cross section of maintenance tasks on aircraft. At least 1 year of the required experience shall be recent maintenance experience (First AML). The required experience shall be dependent upon the difference between the license category/subcategory held and applied for.
 
@@ -53,7 +57,7 @@ For category B1, B2 or C, the relevant aircraft ratings are the following:
 - for Group 3 aircraft, the appropriate aircraft type rating or full group rating;
 - for Group 4 aircraft, for the category B2 license, the full group rating.
 
-See [[EASA Info#Aircraft Groups|Aircraft Groups]] for more info on Aircraft Groups.
+See [[EASA#Aircraft Groups|Aircraft Groups]] for more info on Aircraft Groups.
 
 ## What Is "on-the-Job Training" (OJT) / (66.A.30) [Link](https://www.easa.europa.eu/en/easy-access-rules/95cada/ERULES-1963177438-550)
 
@@ -61,12 +65,14 @@ The OJT is the training that the applicant is given on a particular aircraft typ
 
 ## How Do B1 and B2 Licenses Differ?
 
-A B2 License is applicable to all aircraft while a B1 license is divided into 4 categories:
+A B2 License is applicable to all aircraft (for avionics work) while a B1 license is divided into 4 categories:
 
 - B1.1 Airplanes Turbine;
 - B1.2 Airplanes Piston;
 - B1.3 Helicopters Turbine;
 - B1.4 Helicopters Piston.
+
+A B1 License focuses on Mechanical work such as on turbines, propellers, outer body, etv while a B2 License focuses on Avionics, i.e. the electronic systems inside an aircraft.
 
 ---
 

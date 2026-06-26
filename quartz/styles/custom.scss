@@ -1,3 +1,37 @@
 @use "./variables.scss" as *;
+@use "./themes";
 
 // put your custom CSS here!
+
+body,
+article,
+.page-content,
+.center,
+p,
+li,
+td,
+blockquote {
+    font-family: var(--bodyFont) !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--headerFont) !important;
+}
+
+.page-title {
+    font-family: var(--titleFont) !important;
+}
+
+body li.section-li>.section>.desc>h3>a {
+    color: var(--nav-item-color);
+    margin: auto 1rem;
+}
+
+body li.section-li>.section .meta {
+    margin:auto
+}

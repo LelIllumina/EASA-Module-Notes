@@ -24,11 +24,11 @@ module: M2 Physics
 
 ## Examples
 
-**![](Actuator.jpg)
+![](Actuator.jpg)
 
 Hydraulic Actuator Example, used to move rudders, flaps, etc
 
-**![](AircraftFrame.jpg)
+![](AircraftFrame.jpg)
 
 Spars in aircraft frame
 
