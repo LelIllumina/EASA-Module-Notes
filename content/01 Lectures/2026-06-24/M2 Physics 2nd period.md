@@ -1,5 +1,5 @@
 ---
-Date: 2026-06-24
+date: 2026-06-24
 time: 12:09
 module: M2 Physics
 ---

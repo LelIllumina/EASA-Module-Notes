@@ -25,7 +25,7 @@ module: M1 Math
 
 ## Examples
 
-- orime factors of 1764 is 2x2x3x3x7x7=1764
+- prime factors of 1764 is 2x2x3x3x7x7=1764
 
 ## Questions
 
