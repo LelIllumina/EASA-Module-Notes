@@ -6,8 +6,12 @@ chapter:
 
 ## Overview
 
-## Key Concepts
+## Key Points
 
 ## Definitions
 
-## Points to Memorize
+## Examples
+
+## Images
+
+## Links

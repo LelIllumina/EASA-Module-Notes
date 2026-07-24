@@ -81,10 +81,10 @@ Continuing Airworthiness refers to maintaining aircraft to be in a condition it 
 	- subgroup 2a
 		- single turboprop engine airplanes,
 		- those turbine-engine airplanes classified by the Agency in this subgroup because of their lower complexity.
-- subgroup 2b
+	- subgroup 2b
 		- single turbine engine airplanes,
 		- those multiple turbine engine helicopters classified by the Agency in this subgroup because of their lower complexity.
-- subgroup 2e
+	- subgroup 2e
 		- single piston engine airplanes,
 		- those multiple piston engine helicopters classified by the Agency in this subgroup because of their lower complexity.
 - Group 3: piston engine airplanes other than those in Group 1.

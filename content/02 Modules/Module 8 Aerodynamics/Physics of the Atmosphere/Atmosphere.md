@@ -33,7 +33,7 @@ Atmosphere refers to the bubble of air surrounding the earth at a depth of ~800k
 		- Vertical air currents
 		- Reason for most weather conditions
 	- The Stratosphere (above)
-		- Above the tropopause
+	0	- Above the tropopause
 		- Extremely thin air
 		- No water vapor; no weather
 	- There also exists the Tropopause which is between both layers and has a constant temperature of -56.5C
