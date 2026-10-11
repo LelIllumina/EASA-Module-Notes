@@ -2,6 +2,7 @@
 aliases:
 tags:
 chapter:
+title: Plane Design
 ---
 
 ## Overview

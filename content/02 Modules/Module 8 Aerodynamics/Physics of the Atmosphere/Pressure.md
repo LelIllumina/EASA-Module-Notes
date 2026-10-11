@@ -1,12 +1,11 @@
 ---
 tags:
-  - Pressure
 chapter: "8.1"
 ---
 
 ## Overview
 
-Air pressure is the force exerted by the weight of air above a given point. It varies with altitude and is one of the key properties that differs between atmospheric [[Atmosphere|layers]].
+Air pressure is the force exerted by the weight of air above a given point. It varies with altitude and is one of the key properties that differs between atmospheric [[02 Modules/Module 8 Aerodynamics/Physics of the Atmosphere/Index|layers]].
 
 ## Key Points
 

@@ -1,6 +1,5 @@
 ---
 tags:
-  - Temperature
 chapter: "8.1"
 ---
 
