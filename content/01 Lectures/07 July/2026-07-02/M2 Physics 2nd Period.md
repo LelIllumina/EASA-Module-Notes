@@ -1,7 +1,7 @@
 ---
-date: "2026-07-02"
-time: "12:28"
-module: "M2 Physics 2nd Period"
+date: 2026-07-02
+time: 12:28
+module: M2 Physics 2nd Period
 ---
 
 ## Topics

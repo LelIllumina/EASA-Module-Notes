@@ -1,7 +1,7 @@
 ---
-date: "2026-07-09"
-time: "11:32"
-module: "M8 Aerodynamics"
+date: 2026-07-09
+time: 11:32
+module: M8 Aerodynamics
 ---
 
 ## Topics
